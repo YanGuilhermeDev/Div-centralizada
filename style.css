@@ -1,0 +1,22 @@
+ *{
+   margin: 0;
+   padding: 0;
+   max-width: 1200px;
+ }
+ 
+ .lightblue{
+   position: absolute;
+  background-color: lightblue;
+  border-radius: 10%;
+   height: 100px;
+   width: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: 600px;
+   top: 50%;
+ }
+
+ .darkblue{
+   color: darkblue;
+ }
